@@ -1,6 +1,6 @@
 # redux_state
 
-A new Flutter project.
+when run app return list of trips name and id 
 
 ## Getting Started
 
